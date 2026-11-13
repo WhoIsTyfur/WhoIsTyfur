@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Tyfur&fontSize=70&fontColor=ffffff&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=I%20am%20Tyfur&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%" />
 
 <div align="center">
 
@@ -21,10 +21,11 @@
 ## Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,ts,js,py,java,nodejs,react,cloudflare,git,github,vscode,blender&perline=12" />
+  <img src="https://skillicons.dev/icons?i=lua,ts,js,html,css,py,java,nodejs,react,cloudflare,git,github,vscode,blender&perline=14" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Rojo-E13835?style=for-the-badge" />
