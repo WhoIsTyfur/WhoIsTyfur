@@ -1,4 +1,15 @@
-# Tyfur
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Tyfur&fontSize=70&fontColor=ffffff&fontAlignY=35" width="100%" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Roblox+game+developer;Founder+of+Tyfur+Games;Building+AI+agent+skills;Minecraft+mods+and+data+packs" alt="Typing SVG" />
+
+<a href="https://tyfurgames.com"><img src="https://img.shields.io/badge/tyfurgames.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" /></a>
+<a href="https://www.roblox.com/users/363455196/profile"><img src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" /></a>
+<a href="https://x.com/WhoIsTyfur"><img src="https://img.shields.io/badge/@WhoIsTyfur-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=WhoIsTyfur&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
 
 ## What I work on
 
@@ -6,6 +17,20 @@
 - **AI agent skills and MCP servers** that speed up game development
 - **Minecraft** data packs, mods and resource packs
 - **Streaming tools** for my own multi-platform setup
+
+## Languages and tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,ts,js,py,java,nodejs,react,cloudflare,git,github,vscode,blender&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rojo-E13835?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wally-AD7B4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+</p>
 
 ## Featured projects
 
@@ -18,16 +43,17 @@
 | [upgradable-gaps](https://github.com/WhoIsTyfur/upgradable-gaps) | Upgrade a golden apple into an enchanted golden apple with gold ingots |
 | [craftable-notch-apples](https://github.com/WhoIsTyfur/craftable-notch-apples) | Data pack that restores the original enchanted golden apple recipe |
 
-## Languages
+## Activity
 
-Luau, TypeScript, JavaScript, Python, Java
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WhoIsTyfur&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
 
-## Tools I use
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhoIsTyfur/WhoIsTyfur/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/WhoIsTyfur/WhoIsTyfur/output/github-snake.svg" />
+  </picture>
+</p>
 
-Roblox Studio, Rojo, Wally, Cloudflare Workers, Claude Code
-
-## Find me
-
-- Website: [tyfurgames.com](https://tyfurgames.com)
-- Roblox: [aTinyGecko](https://www.roblox.com/users/363455196/profile)
-- X: [@WhoIsTyfur](https://x.com/WhoIsTyfur)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
