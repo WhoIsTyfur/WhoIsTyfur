@@ -1,28 +1,30 @@
-# Who is Tyfur?
-
-I'm Tyler, a Roblox game developer and the founder of [Tyfur Games](https://tyfurgames.com). I've been building in Roblox Studio since 2018. My Difficulty Chart Obby got me started, and IMPOSSIBLE OBBY is my biggest hit so far.
-
-These days I'm mostly writing Luau, tooling up my own game framework, and streaming while I build.
+# Tyfur
 
 ## What I work on
 
-- **Roblox games** under Tyfur Games, built on my in-house Luau framework (Rojo, Wally, React-Luau)
-- **AI agent skills** that speed up game development, like localization and build automation
-- **Minecraft** data packs and small mods
-- **make.fun bounties**: forecasting, trading bots and generative art
+- **Roblox games** under [Tyfur Games](https://tyfurgames.com), built on my in-house Luau framework (Rojo, Wally, React-Luau)
+- **AI agent skills and MCP servers** that speed up game development
+- **Minecraft** data packs, mods and resource packs
+- **Streaming tools** for my own multi-platform setup
 
 ## Featured projects
 
 | Project | What it is |
 | --- | --- |
 | [roblox-i18n-skill](https://github.com/WhoIsTyfur/roblox-i18n-skill) | Agent skill that translates a Roblox game into up to 50 languages, checked by reviewer agents |
+| [discord-mcp](https://github.com/WhoIsTyfur/discord-mcp) | MCP server that lets an AI assistant set up Discord servers from a declarative blueprint |
+| [restream-stream-deck-plugin](https://github.com/WhoIsTyfur/restream-stream-deck-plugin) | Stream Deck plugin that controls Restream: titles, channels, viewers and events |
+| [wireframe-xray](https://github.com/WhoIsTyfur/wireframe-xray) | Minecraft X-ray resource pack that outlines every block so ores show through |
 | [upgradable-gaps](https://github.com/WhoIsTyfur/upgradable-gaps) | Upgrade a golden apple into an enchanted golden apple with gold ingots |
 | [craftable-notch-apples](https://github.com/WhoIsTyfur/craftable-notch-apples) | Data pack that restores the original enchanted golden apple recipe |
-| [makefun-roblox-trending](https://github.com/WhoIsTyfur/makefun-roblox-trending) | Hour-by-hour forecast of Roblox's Top Trending chart |
+
+## Languages
+
+Luau, TypeScript, JavaScript, Python, Java
 
 ## Tools I use
 
-Luau, TypeScript, JavaScript, Python, Java, Rojo, Wally, Roblox Studio, Cloudflare Workers, Claude Code
+Roblox Studio, Rojo, Wally, Cloudflare Workers, Claude Code
 
 ## Find me
 
